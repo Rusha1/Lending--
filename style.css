@@ -1,0 +1,297 @@
+html{
+
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+  body
+  {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+
+.block__one{
+	 background-image:  url(bg.png);
+}
+.block__two{
+	background:  #FFFFFF;
+	margin-top:50px;
+	 
+	width: 920px;
+	height: 338px;
+
+	border: 1px solid #E7EBF2;
+	box-sizing: border-box;
+	border-radius: 5px;
+		margin-left:200px;
+		margin-bottom:60px;
+		
+	background: #FFFFFF;
+border: 1px solid #E7EBF2;
+box-sizing: border-box;
+border-radius: 5px;
+padding: 45px 50px 35px 60px;
+}
+
+.text__one{
+margin-top:30px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 47px;
+
+
+color: #FFFFFF;
+
+}
+
+.text__three{
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	line-height: 47px;
+	margin-top:35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.text__two{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26.778px;
+line-height: 110.5%;
+margin-top:35px;
+/* identical to box height, or 30px */
+
+
+color: #FFFFFF;
+}
+
+.img__one{
+	margin-top:30px;
+	height:40px;
+	width:100px;
+	
+}
+
+.img__two{
+	margin-top:41px;
+	margin-left: 2px;
+    height: 30px;
+}
+}
+
+.img__three_one{
+	
+	cursor:pointer;
+}
+
+.img__three_one:hover{
+	opacity:0.8;
+	cursor:pointer;
+}
+
+.img__four{
+	cursor:pointer;
+}
+
+.img__four:hover{
+	opacity:0.8;
+}
+
+.img__four_iphone{
+	width:548px;
+	height:460px;
+}
+
+.img__three_one{
+	margin-right:15px;
+	margin-top:30px;
+}
+
+.img__four{
+	margin-top:30px;
+}
+
+.block__main{
+	background: #F4F6F6;
+}
+
+.block__three{
+	background:#ffffff;
+	height:90px;
+	padding-top:20px;
+}
+
+.text__four{
+font-family: ABeeZee;
+font-size: 13px;
+color: #999999;
+}
+
+.a__one:hover{
+color:#999999;
+}
+
+.a__mail:hover{
+color:#000000;
+}
+
+.block__three_lg_one{
+	margin-left:79px;
+}
+
+.text__four__bottom{
+margin-bottom:25px;
+}
+
+.text__four__top{
+	margin-top:4px;
+}
+
+.block__four{
+	width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: auto;
+	margin-top: 10px;
+}
+
+.block__four_one_one{
+	margin-left:-5px;
+	font-family: ABeeZee;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 24px;
+	/* identical to box height */
+
+
+	color: #323232;
+}
+
+.block__four_one{
+	margin-left:-30px;
+	margin-top:5px;
+   font-family: ABeeZee;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+
+
+color: #999999;
+
+}
+
+.img__three{
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border: none;
+		width:23px;
+		height:23px;
+}
+
+.img__three_one_one{
+	height: auto;
+        display: block;
+        margin: 0 auto;
+        border: none;
+		width:30px;
+		height:30px;
+}
+
+.block__four_two{
+	margin-top: 15px;
+	margin-left:-50px;
+	position: absolute;
+
+font-family: ABeeZee;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 130%;
+
+
+color: #999999;
+}
+
+.form__one{
+	border: 0px;
+	border-bottom:1px solid #C5CEE0;
+	color: #929292;
+}
+
+.form__two{
+	border: 0px;
+	border-bottom:1px solid #C5CEE0;
+	color: #929292;
+	margin-top:10px;
+}
+
+.form__three{
+	border: 0px;
+	border-bottom:1px solid #C5CEE0;
+	color: #929292;
+	margin-top:5px;
+	padding-bottom: 38px;
+}
+
+.form__btn{
+	margin-top:10px;
+	background: linear-gradient(266.81deg, #520093 0%, #520093 0.01%, #A14BF7 100%);
+	border-radius: 5px;
+	text-align:top;
+	width: 165px;
+height: 47px;
+	color:#ffffff;
+	font-family: Gilroy;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+border:0px;
+cursor:pointer;
+border-color: #000000;
+}
+
+.form__btn:hover{
+	background:none;
+	border: 3px solid;
+	border-image: linear-gradient(266.81deg, #520093 0%, #520093 0.01%, #A14BF7 100%);
+    border-image-slice: 1;
+	border-radius:30px;
+	color:#000000;
+}
+
+.form__inp{
+	width: 350px;
+	outline:none;
+}
+
+.text__email{
+	margin-left:15px;
+	font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 100%;
+
+
+color: #323232;
+}
+
+
+input {outline: 0 !important;}
+
+.block__five{
+	margin-top:20px;
+}
